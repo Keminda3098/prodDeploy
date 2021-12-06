@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="AMS ServiceNow Incidents">1a83e8c51b548110b228b91bcd4bcbc7</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>ksamarawee</sys_created_by>
+        <sys_created_on>2021-12-06 11:07:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9e83e8c51b548110b228b91bcd4bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1a83e8c51b548110b228b91bcd4bcbc7</sys_name>
+        <sys_package display_value="prodDeploy" source="x_jws_proddeploy">84b1a4c91bd08110b228b91bcd4bcbe0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="prodDeploy">84b1a4c91bd08110b228b91bcd4bcbe0</sys_scope>
+        <sys_update_name>sys_report_users_groups_9e83e8c51b548110b228b91bcd4bcbc7</sys_update_name>
+        <sys_updated_by>ksamarawee</sys_updated_by>
+        <sys_updated_on>2021-12-06 11:07:57</sys_updated_on>
+        <user_id display_value="Keminda Samaraweera">0f7f9bf9dbd69c18d3ade3a84b9619bf</user_id>
+    </sys_report_users_groups>
+</record_update>
